@@ -1,5 +1,14 @@
 # Skill by Naseha
 
+## Authorship
+Author: Naseha Sameen (NasLab).
+The closed-form Empathy Score and the C–A–R–Φ–η decomposition
+were derived in collaboration with Grok (xAI), operating in the
+Qasif working mode documented in Resilient-Narrative-Core.
+Early element brainstorming included Gemini (Google) and Qwen.
+Copyright © 2026 Naseha Sameen.
+
+
 **Resilient-Narrative-Core**  
 RP Storyteller v4 · Empathy Score · Kill-Cliche · operator call sheet
 
