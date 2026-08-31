@@ -27,7 +27,7 @@ Writer and systems engineer of story. The manuscript and the metric refuse to ig
 | Phase | What | Score |
 | --- | --- | --- |
 | Memory layer | Yadam Hast / Memory Context | — |
-| v1–v2 | Spine, agency cadence, Heat & Resistance, Empathy Score | 8.1 → 9.2 on the Invitation run |
+| v1–v2 | Spine, agency cadence, Heat & Resistance, Empathy Score 400 pages Stress-test| 8.1 → 9.2 on the Invitation run |
 | v3 | Aftermath Drive, Verbal Surplus, object-density, Kill-Cliche as prompt | stress engine for the feud book |
 | **v4 (this tree)** | Plot-Coin Cap (non-MC), `[]` operator protocol, FAQ, dual runtime profiles, full Empathy formula in-skill | **7.0** on 749 pages · ~29.4 h live / 83.6 h wall |
 
