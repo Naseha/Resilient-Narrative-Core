@@ -69,7 +69,7 @@ Operator FAQ: `docs/TROUBLESHOOTING-FAQ.md`
 - Plot-Coin Cap: a non-lead may not photocopy the same stall (date, door, exile, blessing) a third time.
 - User Meta Protocol: `[]` suspends scene. Continue resumes.
 - Empathy Score written into the skill (companion still required when present). Intent is out of scope.
-- Kill-Cliche §5: Muslim / South Asian old money is not default middle-class kitchen costume.
+- Kill-Cliche §5: cultural specificity, anti‑stereotype, anti‑orientalist runtime checks.
 - Character Cards and Location Cards remain mandatory.
 
 ## Empathy Score
@@ -96,8 +96,13 @@ Default α = β = γ = 1. Report private and public when they split. A 1.0 drop 
 ## Licence and credit
 
 Skill by Naseha.  
+Not a Developer — just an Author, Literary Systems Engineer & Product Architect
 NasLab. Hyderabad.
+Work built at the seam where data science touches the DNA of literary work and the architecture of story.
+
 
 Use, fork, argue. Keep the gate. Keep the name of the protocol if you keep the gates.
-
 Naseha Protocol. Qasif mode of storytelling.
+
+
+
