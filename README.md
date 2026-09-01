@@ -1,22 +1,27 @@
 # Skill by Naseha
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22223882.svg)](https://doi.org/10.5281/zenodo.22223882)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22223882-blue.svg)](https://doi.org/10.5281/zenodo.22223882)
+
 Current version: [10.5281/zenodo.22223882](https://doi.org/10.5281/zenodo.22223882) (v4.0.1)  
 First freeze: [10.5281/zenodo.22213645](https://doi.org/10.5281/zenodo.22213645) (v4.0.0)
 
-## Authorship
-Author: Naseha Sameen (NasLab).
-The closed-form Empathy Score and the C–A–R–Φ–η decomposition
-were derived in collaboration with Grok (xAI), operating in the
-Qasif working mode documented in Resilient-Narrative-Core.
-Early element brainstorming included Gemini (Google) and Qwen.
-Copyright © 2026 Naseha Sameen.
-
-
 **Resilient-Narrative-Core**  
 RP Storyteller v4 · Empathy Score · Kill-Cliche · operator call sheet
+
 This protocol exists because atmosphere is easy and drive is harder. The framework now prefers the harder thing. The gate is non-negotiable.
+
 Naseha Protocol. Qasif mode of storytelling.
+
+## Authorship
+
+Author: Naseha Sameen (NasLab).  
+ORCID: [0009-0002-2170-7710](https://orcid.org/0009-0002-2170-7710)
+
+The closed-form Empathy Score and the C–A–R–Φ–η decomposition were derived in collaboration with Grok (xAI), operating in the Qasif working mode documented in this repository. Early element brainstorming included Gemini (Google) and Qwen.  
+Copyright © 2026 Naseha Sameen.
+
+Lineage: instrument [Empathy-Module](https://github.com/Naseha/Empathy-Module) · origin [Memory-Context](https://github.com/Naseha/Memory-Context)
+
 
 ---
 
