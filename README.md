@@ -85,7 +85,7 @@ Operator FAQ: `docs/TROUBLESHOOTING-FAQ.md`
 E(t) = tanh(αC(t) + βA(t) + γR(t)) * Φ(Env, t) − η(t)
 ```
 
-Default α = β = γ = 1. Report private and public when they split. A 1.0 drop after resistance without story cause is a Heat & Resistance fail.
+Default α = β = γ = 1. Report private and public when they split. E lives on 0–1. A 0.20 drop after resistance without story cause is a Heat & Resistance fail. ~1.0 is collapse.
 
 ## House rules
 
