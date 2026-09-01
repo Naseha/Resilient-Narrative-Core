@@ -182,5 +182,7 @@ Work built at the seam where data science touches the DNA of literary work and t
 Use, fork, argue. Keep the gate. Keep the name of the protocol if you keep the gates.
 Naseha Protocol. Qasif mode of storytelling.
 
+## License
+This project is licensed under the terms described in the LICENSE file.
 
 
