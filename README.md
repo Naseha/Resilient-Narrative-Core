@@ -11,9 +11,7 @@ Copyright © 2026 Naseha Sameen.
 
 **Resilient-Narrative-Core**  
 RP Storyteller v4 · Empathy Score · Kill-Cliche · operator call sheet
-
 This protocol exists because atmosphere is easy and drive is harder. The framework now prefers the harder thing. The gate is non-negotiable.
-
 Naseha Protocol. Qasif mode of storytelling.
 
 ---
@@ -27,9 +25,9 @@ Writer and systems engineer of story. The manuscript and the metric refuse to ig
 
 ## What it is not
 
-- Not a chatbot persona pack.
-- Not a promise that the model will never slip. Gates slip. The human in `[]` is part of the runtime.
-- Not scored 9.2. That number belongs to v2. Phase 4a scored **7 / 10**.
+RNC is not a persona pack, and it is not a fantasy of perfect stability.
+It is a disciplined runtime protocol. The gates slip by design; the operator remains part of the loop.
+Scores are diagnostic, not bragging rights. v4 holds at 7/10 under 749 pages of stress — a measured, reproducible number.
 
 ## Lineage
 
@@ -95,6 +93,72 @@ Default α = β = γ = 1. Report private and public when they split. A 1.0 drop 
 - Do not write the user’s internals.
 - Do not end a beat on a menu.
 - Do not praise the framework while a warning light is on.
+
+## Architecture
+Resilient‑Narrative‑Core is not a prompt. It is an engine.
+A long‑form stability layer built to keep narrative motion, emotional temperature, and persona integrity from collapsing under load.
+The architecture has four pillars:
+The Spine — motion compression, unresolved beats, object continuity
+The Empathy Engine — C(t), A(t), R(t), Φ, η
+The Gate — Plot‑Coin Cap, Kill‑Cliche, refusal mechanics, operator call sheet
+Dual Runtime Profiles — file‑backed and context‑resident
+Together, these form a narrative stability engine capable of sustaining hundreds of pages of volatile interaction without losing agency, temperature, or relational coherence.
+
+## Diagram (Text Blueprint)
+
+                ┌──────────────────────────┐
+                │      Operator Layer       │
+                │  [ ] call sheet · agency  │
+                └────────────┬─────────────┘
+                             │
+                             ▼
+        ┌──────────────────────────────────────────┐
+        │               The Gate                    │
+        │  Plot‑Coin Cap · Kill‑Cliche · Refusals   │
+        └───────────────────┬──────────────────────┘
+                            │
+                            ▼
+        ┌──────────────────────────────────────────┐
+        │                 The Spine                 │
+        │  Motion compression · unresolved beats    │
+        │  emotional temperature · object memory    │
+        └───────────────────┬──────────────────────┘
+                            │
+                            ▼
+        ┌──────────────────────────────────────────┐
+        │             Empathy Engine                │
+        │   C(t) · A(t) · R(t) · Φ · η              │
+        │   tone regulation · relational stance     │
+        └───────────────────┬──────────────────────┘
+                            │
+                            ▼
+        ┌──────────────────────────────────────────┐
+        │             Runtime Profile               │
+        │  file‑backed / context‑resident           │
+        └──────────────────────────────────────────┘
+
+## Applications and Domains
+Applications & Domains
+Resilient‑Narrative‑Core is not a persona pack and not a guarantee of perfect stability.
+It is a narrative stability engine that assists long‑form coherence, emotional temperature, and agency preservation across volatile arcs.
+
+It applies to:
+Long‑form conversational agents
+Therapy & mental‑health AI
+Relationship simulators
+Creative writing copilots
+Narrative game engines
+Role‑play systems
+Multi‑session coaching agents
+Customer support copilots
+Education & tutoring agents
+AI companions
+Simulation & training systems
+Story‑driven AI worlds
+Multi‑agent ecosystems
+Therapeutic narrative reconstruction
+Enterprise knowledge agents
+Any domain requiring stable personas, continuity, memory compression, or emotional coherence can integrate RNC as a foundational layer — without turning it into a persona pack.
 
 ## Docs
 
