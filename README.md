@@ -1,5 +1,9 @@
 # Skill by Naseha
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22223882.svg)](https://doi.org/10.5281/zenodo.22223882)
+Current version: [10.5281/zenodo.22223882](https://doi.org/10.5281/zenodo.22223882) (v4.0.1)  
+First freeze: [10.5281/zenodo.22213645](https://doi.org/10.5281/zenodo.22213645) (v4.0.0)
+
 ## Authorship
 Author: Naseha Sameen (NasLab).
 The closed-form Empathy Score and the C–A–R–Φ–η decomposition
