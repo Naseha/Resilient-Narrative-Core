@@ -35,6 +35,11 @@ Scores are diagnostic, not bragging rights. v4 holds at 7/10 under 749 pages of 
 
 ## Lineage
 
+RNC is built on two foundational engines: Memory‑Context (continuity) and Empathy‑Module (relational stance).
+The empathy formula remains unchanged; RNC expands its application to character consistency, emotional temperature regulation, and long‑form narrative stability.
+
+The empathy equation remains constant across all repos; what evolves is its application — from continuity protection (Memory‑Context) to relational matching (Empathy‑Module) to full narrative runtime stability (RNC).
+
 | Phase | What | Score |
 | --- | --- | --- |
 | Memory layer | Yadam Hast / Memory Context | — |
@@ -59,20 +64,16 @@ v2 live files from this repo’s earlier `main` sit in `archive/v2/`. Do not loa
 | Context-resident | `profiles/context-resident/SKILL.md` | Gemini. Spine is an in-thread block. Do not invent a path. |
 
 Shared tongue: `Kill-Cliche-and-Style.md` (root). Load as an **activation prompt**, not pasted into the engine.
-
 Empathy formula lives in the skill **and** in `profiles/file-backed/character-empathy-score.md`. Gemini does not need the sibling file.
 
 ## Load
-
 File-backed wake line:
-
 ```
 [Load RP Storyteller v4. Load Kill-Cliche as prompt. Open the spine for {Name}.
 Re-anchor agency, surplus, coin cap. Give last Empathy Score private and public.]
 ```
 
 Gemini adds: `Print the Spine Block. Do not write a file.`
-
 Operator FAQ: `docs/TROUBLESHOOTING-FAQ.md`
 
 ## What v4 added (nothing from v3 was removed)
