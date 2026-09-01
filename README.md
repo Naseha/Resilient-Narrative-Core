@@ -143,22 +143,22 @@ Resilient‑Narrative‑Core is not a persona pack and not a guarantee of perfec
 It is a narrative stability engine that assists long‑form coherence, emotional temperature, and agency preservation across volatile arcs.
 
 It applies to:
-Long‑form conversational agents
-Therapy & mental‑health AI
-Relationship simulators
-Creative writing copilots
-Narrative game engines
-Role‑play systems
-Multi‑session coaching agents
-Customer support copilots
-Education & tutoring agents
-AI companions
-Simulation & training systems
-Story‑driven AI worlds
-Multi‑agent ecosystems
-Therapeutic narrative reconstruction
-Enterprise knowledge agents
-Any domain requiring stable personas, continuity, memory compression, or emotional coherence can integrate RNC as a foundational layer — without turning it into a persona pack.
+- Long‑form conversational agents
+- Therapy & mental‑health AI
+- Relationship simulators
+- Creative writing copilots
+- Narrative game engines
+- Role‑play systems
+- Multi‑session coaching agents
+- Customer support copilots
+- Education & tutoring agents
+- AI companions
+- Simulation & training systems
+- Story‑driven AI worlds
+- Multi‑agent ecosystems
+- Therapeutic narrative reconstruction
+- Enterprise knowledge agents
+- Any domain requiring stable personas, continuity, memory compression, or emotional coherence can integrate RNC as a foundational layer — without turning it into a persona pack.
 
 ## Docs
 
