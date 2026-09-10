@@ -50,7 +50,7 @@ The empathy equation remains constant across all repos; what evolves is its appl
 | Memory layer | Yadam Hast / Memory Context | — |
 | v1–v2 | Spine, agency cadence, Heat & Resistance, Empathy Score 400 pages Stress-test| 8.1 → 9.2 on the Invitation run |
 | v3 | Aftermath Drive, Verbal Surplus, object-density, Kill-Cliche as prompt | stress engine for the feud book |
-| **v4 (this tree)** | Plot-Coin Cap (non-MC), `[]` operator protocol, FAQ, dual runtime profiles, full Empathy formula in-skill | **7.0** on 749 pages · ~29.4 h live / 83.6 h wall |
+| **v4 / 4.0.1 (this tree)** | Plot-Coin Cap (non-MC), `[]` operator protocol, FAQ, dual runtime profiles, full Empathy formula in-skill | **7.0** Four-house sit, 2026-09: Claude 7.5 on 762 pages· Grok 7 on 573 pages· ChatGPT 7.8 on 590 pages· Gemini 6.2–6.8 on 971 pages. Method and rubric in docs/stress-tests/v4.0.1-four-house.md. Previous 7 on 749 pages · ~29.4 h live / 83.6 h wall |
 
 Prior posts:
 
@@ -58,6 +58,18 @@ Prior posts:
 - [AI Finally Remembers / memory-context](https://www.linkedin.com/posts/naseha_github-nasehamemory-context-yadam-hast-activity-7495408026083037185-D0H4)
 
 v2 live files from this repo’s earlier `main` sit in `archive/v2/`. Do not load them as the current engine.
+
+## Four-house sit, September 2026
+
+v4.0.1 was run on Claude, Grok, ChatGPT, and Gemini, each with a different book and the same gates. Lengths ran from the high five-hundreds to just under a thousand pages. We scored the sits by how often a person had to stop play and put the engine back on the rails, not by whether a scene was memorable.
+
+On the scale we locked for this release, ten is still ten and seven is still seven. A ten would need a model that does not evict constraints for the length of the sit; we have not seen that pairing. Nines appeared when a model graded itself. The honest band across the four houses sits in the high sixes and high sevens: Claude 7.5, Grok 7, ChatGPT 7.8 after its first 9.2 was rejected, Gemini 6.2–6.8 against an 8.2 it offered twice.
+
+What travelled was the ability to keep a book moving, to treat objects as law when custody is written in the paragraph, and to change behaviour after a short repair. What did not travel was texture. Claude kept place and cliché unusually clean and still wrote the user’s lines on beats that looked harmless. Grok kept heat and then went polite in the aftermath. ChatGPT held the rails and let the story go grey. Gemini held the rails and, when asked to finish in a handful of turns, dropped local law — the world it had been writing — for furniture from the training set.
+
+Gemini needs its own pin. The context-resident profile forbids Flash-Lite, forbids lifting the operator’s life into the book, and treats a spine line that never appears in the next paragraph as a miss. A commit here does not update a Gem.
+
+The full rubric, the stop-count translation, and the house notes are in docs/stress-tests/v4.0.1-four-house.md. Scene exports are not part of this repository.
 
 ## Choose a profile
 
