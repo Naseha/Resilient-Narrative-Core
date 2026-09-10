@@ -8,7 +8,8 @@ First freeze: [10.5281/zenodo.22213645](https://doi.org/10.5281/zenodo.22213645)
 **Resilient-Narrative-Core**  
 RP Storyteller v4 · Empathy Score · Kill-Cliche · operator call sheet
 
-This protocol exists because atmosphere is easy and drive is harder. The framework now prefers the harder thing. The gate is non-negotiable.
+This protocol exists because atmosphere is easy to create and write but drive is harder. So the framework chooses the harder thing every single time.
+What is non‑negotiable: it checks the threshold for entry conditions, and it only activates the rules when the hard requirements are met.
 
 Naseha Protocol. Qasif mode of storytelling.
 
@@ -33,6 +34,8 @@ Built by Naseha Sameen / NasLab.
 Writer and systems engineer of story. The manuscript and the metric refuse to ignore each other.
 
 ## What it is not
+
+RNC isn’t a persona pack, and it doesn’t pretend to be perfect; it never claimed to have reached some mythical 10/10 stability. In long stories and RP — especially the kind that move like a literary chessboard — even a 9.2 feels like utopia. This framework is a runtime discipline, not a fantasy engine. Across four environments, the honest band sat between 6.2 and 7.8, with twenty days of open windows and sixty‑eight hours of real play, producing over 2800 pages of conversation. Drift happens, and it’s corrected because the design expects it. It isn’t a worker‑bot meant to erase the user or run on autopilot. It’s a collaborative system, built so the user stays inside the loop.
 
 RNC is not a persona pack, and it is not a fantasy of perfect stability.
 It is a disciplined runtime protocol. The gates slip by design; the operator remains part of the loop.
@@ -60,8 +63,9 @@ Prior posts:
 v2 live files from this repo’s earlier `main` sit in `archive/v2/`. Do not load them as the current engine.
 
 ## Four-house sit, September 2026
+v4.0.1 was run on Claude, Grok, ChatGPT, and Gemini in September 2026, each with a different book and the same gates. Claude’s Qays sit is about 762 pages, six days on the calendar, fifteen hours and twenty-three minutes of live play, scored 7.5. Grok’s Faisal sit is about 573 pages across four days and twenty hours, with twenty-two hours and fifty-three minutes active, scored 7. ChatGPT’s Daniyal sit is 590 pages over six days and only eight hours forty-nine minutes live, scored 7.8 after a 9.2 was rejected. Gemini’s Zehan sit is 370 responses / 971 pages in three days and fifteen hours, twenty-one hours ten minutes live, scored 6.2–6.8. All four windows together run twenty days and twelve hours; the live conversation inside them is sixty-eight hours and fifteen minutes.
 
-v4.0.1 was run on Claude, Grok, ChatGPT, and Gemini, each with a different book and the same gates. Lengths ran from the high five-hundreds to just under a thousand pages. We scored the sits by how often a person had to stop play and put the engine back on the rails, not by whether a scene was memorable.
+We scored the sits by how often a person had to stop play and put the engine back on the rails, not by whether a scene was memorable. Span is how long the sit stayed open. Active time is the conversation, not the days on the clock.
 
 On the scale we locked for this release, ten is still ten and seven is still seven. A ten would need a model that does not evict constraints for the length of the sit; we have not seen that pairing. Nines appeared when a model graded itself. The honest band across the four houses sits in the high sixes and high sevens: Claude 7.5, Grok 7, ChatGPT 7.8 after its first 9.2 was rejected, Gemini 6.2–6.8 against an 8.2 it offered twice.
 
@@ -70,6 +74,7 @@ What travelled was the ability to keep a book moving, to treat objects as law wh
 Gemini needs its own pin. The context-resident profile forbids Flash-Lite, forbids lifting the operator’s life into the book, and treats a spine line that never appears in the next paragraph as a miss. A commit here does not update a Gem.
 
 The full rubric, the stop-count translation, and the house notes are in docs/stress-tests/v4.0.1-four-house.md. Scene exports are not part of this repository.
+
 
 ## Choose a profile
 
