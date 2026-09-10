@@ -28,14 +28,13 @@ Lineage: instrument [Empathy-Module](https://github.com/Naseha/Empathy-Module) �
 
 ## What this is
 
-An open skill suite for long-form co-authored narrative with large language models. It keeps character agency, object continuity, cultural texture, and emotional temperature from collapsing across hundreds of pages.
-
+An open skill suite for long‑form co‑authored narrative with large language models. The stress test showed it can keep character agency, object continuity, cultural texture, and emotional temperature from collapsing across hundreds of pages — even when the model is stronger than the skill.
 Built by Naseha Sameen / NasLab.  
 Writer and systems engineer of story. The manuscript and the metric refuse to ignore each other.
 
 ## What it is not
 
-RNC isn’t a persona pack, and it doesn’t pretend to be perfect; it never claimed to have reached some mythical 10/10 stability. In long stories and RP — especially the kind that move like a literary chessboard — even a 9.2 feels like utopia. This framework is a runtime discipline, not a fantasy engine. Across four environments, the honest band sat between 6.2 and 7.8, with twenty days of open windows and sixty‑eight hours of real play, producing over 2800 pages of conversation. Drift happens, and it’s corrected because the design expects it. It isn’t a worker‑bot meant to erase the user or run on autopilot. It’s a collaborative system, built so the user stays inside the loop.
+RNC isn’t a persona pack — and the stress test shows it doesn’t need to be one to stay stable. It doesn’t pretend to be perfect; it never claimed to have reached some mythical 10/10 stability. In long stories and RP — especially the kind that move like a literary chessboard — even a 9.2 feels like utopia. This framework is a runtime discipline, not a fantasy engine. Across four environments, the honest band sat between 6.2 and 7.8, with twenty days of open windows and sixty‑eight hours of real play, producing over 2800 pages of conversation. Drift happens, and it’s corrected because the design expects it. It isn’t a worker‑bot meant to erase the user or run on autopilot. It’s a collaborative system, built so the user stays inside the loop.
 
 RNC is not a persona pack, and it is not a fantasy of perfect stability.
 It is a disciplined runtime protocol. The gates slip by design; the operator remains part of the loop.
@@ -166,8 +165,7 @@ Together, these form a narrative stability engine capable of sustaining hundreds
 
 ## Applications and Domains
 Applications & Domains
-Resilient‑Narrative‑Core is not a persona pack and not a guarantee of perfect stability.
-It is a narrative stability engine that assists long‑form coherence, emotional temperature, and agency preservation across volatile arcs.
+Resilient‑Narrative‑Core is a narrative stability engine that assists long‑form coherence, emotional temperature, and agency preservation across volatile arcs.
 
 It applies to:
 - Long‑form conversational agents
@@ -185,7 +183,7 @@ It applies to:
 - Multi‑agent ecosystems
 - Therapeutic narrative reconstruction
 - Enterprise knowledge agents
-- Any domain requiring stable personas, continuity, memory compression, or emotional coherence can integrate RNC as a foundational layer — without turning it into a persona pack.
+- Any domain requiring stable personas, continuity, memory compression, or emotional coherence can integrate RNC as a foundational layer — and the stress test shows it can hold even without being coded natively.
 
 ## Docs
 
